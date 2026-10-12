@@ -1,3 +1,8 @@
+---
+layout: default
+title: Guide
+---
+
 # Building Better Presentation Decks: A Practical Guide for Developers and Technical Teams
 
 Developers and technical teams end up building presentations more often than most job descriptions admit: sprint reviews, architecture walkthroughs, investor updates, conference talks, onboarding decks. Most of that time goes into fighting the slide tool instead of the content. This guide covers what actually makes a technical presentation work, and where AI-assisted tools fit into that process.
