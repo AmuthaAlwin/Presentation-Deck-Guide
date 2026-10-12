@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Checklist
+permalink: /checklist/
 ---
 # Pre-Presentation Checklist
 
