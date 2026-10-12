@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Slide Outline Template
+permalink: /slide-outline-template/
 ---
 # Slide Outline Template
 
