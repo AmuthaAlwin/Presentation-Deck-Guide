@@ -1,3 +1,7 @@
+---
+layout: default
+title: Slide Outline Template
+---
 # Slide Outline Template
 
 Fill this in before opening a slide tool. Keep each section to two or three sentences, if you can't, the argument probably isn't tight enough yet.
