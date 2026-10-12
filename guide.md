@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guide
+permalink: /guide/
 ---
 
 # Building Better Presentation Decks: A Practical Guide for Developers and Technical Teams
