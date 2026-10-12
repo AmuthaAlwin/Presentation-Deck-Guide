@@ -1,3 +1,7 @@
+---
+layout: default
+title: Checklist
+---
 # Pre-Presentation Checklist
 
 Run through this before you present any technical deck.
